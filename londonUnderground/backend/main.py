@@ -9,4 +9,4 @@ def hello_world():
 
 @app.route('/graph')
 def graph():
-    return 
+    return 'graph object'
