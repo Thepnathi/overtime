@@ -1,4 +1,4 @@
-class Drawable {
+export class Drawable {
     constructor(htmlElement, data) {
         this.htmlElement = htmlElement;
         this.data = data;
